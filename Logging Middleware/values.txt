@@ -1,0 +1,13 @@
+{
+    "email": "22331a4465@mvgrce.edu.in",
+    "name": "piyush bokaria",
+    "rollNo": "22331a4465",
+    "accessCode": "mUNQHe",
+    "clientID": "dae81ed4-7238-41a6-85d9-5c775f14f5e1",
+    "clientSecret": "xfyuvZFWtSRDHChK"
+}
+{
+    "token_type": "Bearer",
+    "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJNYXBDbGFpbXMiOnsiYXVkIjoiaHR0cDovLzIwLjI0NC41Ni4xNDQvZXZhbHVhdGlvbi1zZXJ2aWNlIiwiZW1haWwiOiIyMjMzMWE0NDY1QG12Z3JjZS5lZHUuaW4iLCJleHAiOjE3NTE2MTIzOTksImlhdCI6MTc1MTYxMTQ5OSwiaXNzIjoiQWZmb3JkIE1lZGljYWwgVGVjaG5vbG9naWVzIFByaXZhdGUgTGltaXRlZCIsImp0aSI6IjNkZGNiOTdhLTA5YWMtNDRjYy1iYWE4LTE5ODk2MzRhNjgyMCIsImxvY2FsZSI6ImVuLUlOIiwibmFtZSI6InBpeXVzaCBib2thcmlhIiwic3ViIjoiZGFlODFlZDQtNzIzOC00MWE2LTg1ZDktNWM3NzVmMTRmNWUxIn0sImVtYWlsIjoiMjIzMzFhNDQ2NUBtdmdyY2UuZWR1LmluIiwibmFtZSI6InBpeXVzaCBib2thcmlhIiwicm9sbE5vIjoiMjIzMzFhNDQ2NSIsImFjY2Vzc0NvZGUiOiJtVU5RSGUiLCJjbGllbnRJRCI6ImRhZTgxZWQ0LTcyMzgtNDFhNi04NWQ5LTVjNzc1ZjE0ZjVlMSIsImNsaWVudFNlY3JldCI6InhmeXV2WkZXdFNSREhDaEsifQ.uylZtbs_bFbio-R_ez8ctzeVzg12Q5hcOqGVWYdSrdI",
+    "expires_in": 1751612399
+}
